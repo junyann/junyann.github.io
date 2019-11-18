@@ -1,9 +1,17 @@
 # Education Template
-- layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+- layout: top-middle
+  name: University of Southern California
+  dates: 2019 - Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Los Angeles, U.S.
+  qualification: Ph.D. in Computer Science
+  # quote: >
+  #   Short institution or course description (optional)
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification
+- layout: top-middle
+  name: Tsinghua University
+  dates: 2015 - 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beijing, China
+  qualification: B.Eng. in Electronic Engineering
+  # quote: >
+  #   Short institution or course description (optional)
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification

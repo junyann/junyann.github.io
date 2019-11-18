@@ -1,0 +1,8 @@
+<div class="container more-container">
+  <h3>{{ site.honor_title | default: "Honors &amp; Awards" }}</h3>
+  <div class="row clearfix">
+    <div class="col-md-12">
+      {{ site.data.honor.honor_content | strip | markdownify }}
+    </div>
+  </div>
+</div>

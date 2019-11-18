@@ -20,6 +20,10 @@
         {%- include experience.html -%}
       {%- endif -%}
 
+      {%- if site.data.honor.honor_content -%}
+        {%- include honor.html -%}
+      {%- endif -%}
+
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
       {%- endif -%}
@@ -30,6 +34,17 @@
 
     </div>
   </main>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  {%- if site.analytics_id -%}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics_id }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '{{ site.analytics_id }}');
+  </script>
+  {%- endif -%}
 
   {%- include footer.html -%}
 

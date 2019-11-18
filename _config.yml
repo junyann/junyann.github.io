@@ -4,14 +4,17 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Jun Yan # Your Name
-title: PhD Student at University of Southern California (USC) # Your job title
+title: Ph.D. Student
+subtitle: Department of Computer Science<br>University of Southern California
+
 email: yanjun [at] usc.edu
 # phone: Your phone number (optional)
 # website: Your website (eg. https://google.com)(optional)
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  junyann
+github_username: junyann
+scholar_username: rhNj2RcAAAAJ
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -22,30 +25,36 @@ github_username:  junyann
 # youtube_username: jekyll
 # googleplus_username: +jekyll
 
+# Analytics
+analytics_id: UA-152693248-1 
+
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a first-year PhD student at University of Southern California (USC). I am fortunately advised by Prof. Xiang Ren. My research focus on <mark>Natural Language Processing</mark> and <mark>Machine Learning</mark>. I am currently interested in how to leverage external knowledge to benefit machine learning models, especially in low-resource scenarios.
+  I am a first-year PhD student at University of Southern California (USC). I am fortunately advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/). My research focuses on <mark>Natural Language Processing</mark> and <mark>Machine Learning</mark>. I am currently interested in how to leverage external knowledge to benefit machine learning models, especially in low-resource scenarios.
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Publications #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Research Experience #(Use this to override about experience section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+# more_title: Miscs #(Use this to override about more section title)
+# more_content: | # this will include new lines to allow paragraphs
+#    I am interested in cyber security.
+#    
+#    I love cooking.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+# Honor Section
+# honor_title:
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

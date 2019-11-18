@@ -1,10 +1,47 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: INK Lab
+  link: http://inklab.usc.edu/
+  advisor: Prof. Xiang Ren
+  advisor_link: http://ink-ron.usc.edu/xiangren/
+  jobs:
+    - title: Graduate Research Assistant
+      dates: August 2019 - Present
+      description: Description of role
+    - title: Undergraduate Research Assistant
+      dates: July 2018 - September 2018
+      description: Description of role
+  # dates: Date Range (eg. November 2016 - present)
   quote: >
-   Short description of the company (optional)
+   Intelligence and Knowledge Discovery Research Lab
+  university: University of Southern California
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Inspired by the duality between relation extraction and sentence retrieval with relation query, we proposed a semi-supervised dual learning framework that can better leverage unlabeled data than traditional methods. 
+
+    I am now working on incorporating knowledge graph into knowledge-driven tasks like quesion answering. 
+
+- layout: left
+  company: NLP Lab
+  link: http://nlp.csai.tsinghua.edu.cn/site2/index.php/en
+  advisor: Prof. Zhiyuan Liu
+  advisor_link: http://nlp.csai.tsinghua.edu.cn/~lzy/
+  job_title: Undergraduate Research Assistant
+  dates: November 2017 - April 2018
+  quote: >
+   Natural Language Processing Lab
+  university: Tsinghua University
+  description: | # this will include new lines to allow paragraphs
+    We proposed a language model that incorporates sememe (the basic semantic unit) knowledge about words and demonstrated its superior performance and interpretability on language modeling and its downstream task. 
+
+- layout: left
+  company: MSIIP Lab
+  link: http://speech.tsinghua.edu.cn/
+  advisor: Prof. Ji Wu
+  advisor_link: https://www.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html
+  job_title: Undergraduate Research Assistant
+  dates: October 2018 - June 2019
+  quote: >
+   Multimedia Signal and Intelligent Information Processing Lab
+  university: Tsinghua University
+  description: | # this will include new lines to allow paragraphs
+    I worked on my thesis project, which focuses on machine translation in the low-resource medical domain. I improved the performance by leveraging both in-domain terminology constraints and out-domain training data.

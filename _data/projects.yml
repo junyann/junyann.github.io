@@ -1,9 +1,22 @@
 # Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+- layout: top
+  name: Learning Dual Retrieval Module for Semi-supervised Relation Extraction
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  # quote: >
+  #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Hongtao Lin, <u>Jun Yan</u>, Meng Qu, Xiang Ren
+
+    In _Proceedings of **TheWebConf 2019**_ [[code](https://github.com/INK-USC/DualRE)]
+
+- layout: top
+  name: Language Modeling with Sparse Product of Sememe Experts
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  # quote: >
+  #   Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Yihong Gu\*, <u>Jun Yan</u>\*, Hao Zhu\*, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin, Leyu Lin (\* indicates equal contribution)
+
+    In _Proceedings of **EMNLP 2018**_ [[code](https://github.com/thunlp/SDLM-pytorch)]
