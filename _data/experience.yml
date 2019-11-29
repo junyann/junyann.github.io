@@ -1,4 +1,18 @@
 # Experience template
+
+- layout: left
+  company: MSIIP Lab
+  link: http://speech.tsinghua.edu.cn/
+  advisor: Prof. Ji Wu
+  advisor_link: https://www.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html
+  job_title: Undergraduate Research Assistant
+  dates: Oct 2018 - Jun 2019
+  quote: >
+   Multimedia Signal and Intelligent Information Processing Lab
+  university: Tsinghua University
+  description: | # this will include new lines to allow paragraphs
+    I worked on my thesis project, which focuses on machine translation in the low-resource medical domain. I improved the performance by leveraging both in-domain terminology constraints and out-domain training data.
+    
 - layout: left
   company: INK Lab
   link: http://inklab.usc.edu/
@@ -32,16 +46,3 @@
   university: Tsinghua University
   description: | # this will include new lines to allow paragraphs
     We proposed a language model that incorporates sememe (the basic semantic unit) knowledge about words and demonstrated its superior performance and interpretability on language modeling and its downstream task. 
-
-- layout: left
-  company: MSIIP Lab
-  link: http://speech.tsinghua.edu.cn/
-  advisor: Prof. Ji Wu
-  advisor_link: https://www.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html
-  job_title: Undergraduate Research Assistant
-  dates: Oct 2018 - Jun 2019
-  quote: >
-   Multimedia Signal and Intelligent Information Processing Lab
-  university: Tsinghua University
-  description: | # this will include new lines to allow paragraphs
-    I worked on my thesis project, which focuses on machine translation in the low-resource medical domain. I improved the performance by leveraging both in-domain terminology constraints and out-domain training data.
