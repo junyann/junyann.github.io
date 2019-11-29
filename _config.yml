@@ -33,8 +33,8 @@ analytics_id: UA-152693248-1
 about_profile_image: images/profile.jpg
 # about_content: | # this will include new lines to allow paragraphs
 
-# Projects Section
-projects_title: Publications #(Use this to override about projects section title)
+# Publications Section
+# publications_title: Publications #(Use this to override about projects section title)
 
 # Experience Section
 experience_title: Research Experience #(Use this to override about experience section title)
