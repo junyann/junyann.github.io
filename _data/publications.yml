@@ -1,5 +1,12 @@
 # Project template
 - layout: top
+  name: Learning from Explanations with Neural Module Execution Tree
+  description: | # this will include new lines to allow paragraphs
+    Yujia Qin\*, Ziqi Wang\*, Wenxuan Zhou, <u>Jun Yan</u>, Qinyuan Ye, Xiang Ren, Leonardo Neves, Zhiyuan Liu (\* indicates equal contribution)
+
+    To appear in _Proceedings of **ICLR 2020**_
+
+- layout: top
   name: Learning Dual Retrieval Module for Semi-supervised Relation Extraction
   # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
