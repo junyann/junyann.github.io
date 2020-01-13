@@ -2,7 +2,7 @@
 - layout: top
   name: Learning from Explanations with Neural Module Execution Tree
   description: | # this will include new lines to allow paragraphs
-    Yujia Qin\*, Ziqi Wang\*, Wenxuan Zhou, <u>Jun Yan</u>, Qinyuan Ye, Xiang Ren, Leonardo Neves, Zhiyuan Liu (\* indicates equal contribution)
+    Ziqi Wang\*, Yujia Qin\*, Wenxuan Zhou, <u>Jun Yan</u>, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, Xiang Ren (\* indicates equal contribution)
 
     To appear in _Proceedings of **ICLR 2020**_
 
