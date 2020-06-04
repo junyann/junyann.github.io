@@ -4,7 +4,7 @@
   description: | # this will include new lines to allow paragraphs
     Ziqi Wang\*, Yujia Qin\*, Wenxuan Zhou, <u>Jun Yan</u>, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, Xiang Ren (\* indicates equal contribution)
 
-    To appear in _Proceedings of **ICLR 2020**_
+    In _Proceedings of **ICLR 2020**_ [[code](https://github.com/INK-USC/NExT)]
 
 - layout: top
   name: Learning Dual Retrieval Module for Semi-supervised Relation Extraction
