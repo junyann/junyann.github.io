@@ -1,0 +1,7 @@
+# Project template
+- layout: top
+  name: Learning Contextualized Knowledge Structures for Commonsense Reasoning
+  description: | # this will include new lines to allow paragraphs
+    <u>Jun Yan</u>, Mrigank Raman, Tianyu Zhang, Ryan Rossi, Handong Zhao, Sungchul Kim, Nedim Lipka, Xiang Ren
+
+    **arXiv:2010.12873** (short version in **KR2ML@NeurIPS 2020**) [[paper](https://arxiv.org/abs/2010.12873)]
