@@ -1,5 +1,19 @@
 # Project template
 - layout: top
+  name: "AdaTag: Multi-Attribute Value Extraction from Product Profiles with Adaptive Decoding"
+  description: | # this will include new lines to allow paragraphs
+    <u>Jun Yan</u>, Nasser Zalmout, Yan Liang, Christan Grant, Xiang Ren, Xin Luna Dong
+
+    **ACL 2021** [paper]
+
+- layout: top
+  name: Learning Contextualized Knowledge Structures for Commonsense Reasoning
+  description: | # this will include new lines to allow paragraphs
+    <u>Jun Yan</u>, Mrigank Raman, Aaron Chan, Tianyu Zhang, Ryan Rossi, Handong Zhao, Sungchul Kim, Nedim Lipka
+
+    **Findings of ACL 2021** (short version in **KR2ML@NeurIPS 2020**) [[paper](https://arxiv.org/abs/2010.12873)][[code](https://github.com/INK-USC/HGN)]
+
+- layout: top
   name: Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering
   description: | # this will include new lines to allow paragraphs
     Yanlin Feng\*, Xinyue Chen\*, Bill Yuchen Lin, Peifeng Wang, <u>Jun Yan</u>, Xiang Ren (\* indicates equal contribution)
