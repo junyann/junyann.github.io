@@ -1,5 +1,12 @@
 # Project template
 - layout: top
+  name: "RockNER: Evaluating the Robustness of Named Entity Recognition with Natural Adversarial Attacks"
+  description: | # this will include new lines to allow paragraphs
+    Bill Yuchen Lin, Wenyang Gao, <u>Jun Yan</u>, Ryan Moreno, Xiang Ren
+
+    **EMNLP 2021**
+
+- layout: top
   name: "AdaTag: Multi-Attribute Value Extraction from Product Profiles with Adaptive Decoding"
   description: | # this will include new lines to allow paragraphs
     <u>Jun Yan</u>, Nasser Zalmout, Yan Liang, Christan Grant, Xiang Ren, Xin Luna Dong
