@@ -1,6 +1,6 @@
 # Project template
 - layout: top
-  name: "RockNER: Evaluating the Robustness of Named Entity Recognition with Natural Adversarial Attacks"
+  name: "RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models"
   description: | # this will include new lines to allow paragraphs
     Bill Yuchen Lin, Wenyang Gao, <u>Jun Yan</u>, Ryan Moreno, Xiang Ren
 
