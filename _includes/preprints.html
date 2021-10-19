@@ -1,5 +1,5 @@
 <div class="container projects-container">
-  <h3>{{ site.publications_title | default: "Preprints" }}</h3>
+  <h3>{{ site.publications_title | default: "Preprint" }}</h3>
   {% for preprint in site.data.preprints %}
     {% include {{ preprint.layout | default: 'left' | append: ".html" }} item=preprint %}
   {% endfor %}
