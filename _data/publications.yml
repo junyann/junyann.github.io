@@ -4,7 +4,7 @@
   description: | # this will include new lines to allow paragraphs
     Bill Yuchen Lin, Wenyang Gao, <u>Jun Yan</u>, Ryan Moreno, Xiang Ren
 
-    **EMNLP 2021 (short)** [[paper](https://arxiv.org/abs/2109.05620)]
+    **EMNLP 2021 (short)** [[paper](https://arxiv.org/abs/2109.05620)][[code](https://github.com/INK-USC/rockner)]
 
 - layout: top
   name: "AdaTag: Multi-Attribute Value Extraction from Product Profiles with Adaptive Decoding"
