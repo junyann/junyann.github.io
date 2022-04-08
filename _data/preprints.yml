@@ -1,7 +1,1 @@
 # Project template
-- layout: top
-  name: On the Robustness of Reading Comprehension Models to Entity Renaming
-  description: | # this will include new lines to allow paragraphs
-    <u>Jun Yan</u>, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, Xiang Ren
-
-    **arXiv:2110.08555** [[paper](https://arxiv.org/abs/2110.08555)]
