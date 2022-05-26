@@ -1,1 +1,8 @@
 # Project template
+
+- layout: top
+  name: Textual Backdoor Attacks with Iterative Trigger Injection
+  description: | # this will include new lines to allow paragraphs
+    <u>Jun Yan</u>, Vansh Gupta, Xiang Ren
+
+    **arXiv:2205.12700** [[paper](https://arxiv.org/abs/2205.12700)]

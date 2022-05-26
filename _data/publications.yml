@@ -5,7 +5,7 @@
   description: | # this will include new lines to allow paragraphs
     <u>Jun Yan</u>, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, Xiang Ren
 
-    **NAACL 2022** [[paper](https://arxiv.org/abs/2110.08555)]
+    **NAACL 2022** [[paper](https://arxiv.org/abs/2110.08555)][[code](https://github.com/INK-USC/entity-robustness)]
 
 - layout: top
   name: "RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models"
