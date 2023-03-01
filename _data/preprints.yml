@@ -1,7 +1,7 @@
 # Project template
 
 - layout: top
-  name: BITE: Textual Backdoor Attacks with Iterative Trigger Injection
+  name: "BITE: Textual Backdoor Attacks with Iterative Trigger Injection"
   description: | # this will include new lines to allow paragraphs
     <u>Jun Yan</u>, Vansh Gupta, Xiang Ren
 
