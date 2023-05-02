@@ -1,6 +1,13 @@
 # Project template
 
 - layout: top
+  name: "BITE: Textual Backdoor Attacks with Iterative Trigger Injection"
+  description: | # this will include new lines to allow paragraphs
+    <u>Jun Yan</u>, Vansh Gupta, Xiang Ren
+
+    **ACL 2023** (short version in **BANDS@ICLR 2023**) [[paper](https://arxiv.org/abs/2205.12700)][[code](https://github.com/INK-USC/BITE)]
+
+- layout: top
   name: On the Robustness of Reading Comprehension Models to Entity Renaming
   description: | # this will include new lines to allow paragraphs
     <u>Jun Yan</u>, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, Xiang Ren
