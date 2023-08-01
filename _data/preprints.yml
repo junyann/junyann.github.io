@@ -1,8 +1,22 @@
 # Project template
 
-# - layout: top
-#   name: "BITE: Textual Backdoor Attacks with Iterative Trigger Injection"
-#   description: | # this will include new lines to allow paragraphs
-#     <u>Jun Yan</u>, Vansh Gupta, Xiang Ren
+- layout: top
+  name: "Virtual Prompt Injection for Instruction-Tuned Large Language Models"
+  description: | # this will include new lines to allow paragraphs
+    <u>Jun Yan</u>, Vikas Yadav\*, Shiyang Li\*, Lichang Chen, Zheng Tang, Hai Wang, Vijay Srinivasan, Xiang Ren, Hongxia Jin
 
-#     **arXiv:2205.12700** [[paper](https://arxiv.org/abs/2205.12700)]
+    **arXiv:2307.16888** [[paper](https://arxiv.org/abs/2307.16888)] [[project page](https://poison-llm.github.io)]
+
+- layout: top
+  name: "Instruction-following Evaluation through Verbalizer Manipulation"
+  description: | # this will include new lines to allow paragraphs
+    Shiyang Li, <u>Jun Yan</u>, Hai Wang, Zheng Tang, Xiang Ren, Vijay Srinivasan, Hongxia Jin
+
+    **arXiv:2307.10558** [[paper](https://arxiv.org/abs/2307.10558)]
+
+- layout: top
+  name: "AlpaGasus: Training A Better Alpaca with Fewer Data"
+  description: | # this will include new lines to allow paragraphs
+    Lichang Chen\*, Shiyang Li\*, <u>Jun Yan</u>, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin
+
+    **arXiv:2307.08701** [[paper](https://arxiv.org/abs/2307.08701)]
