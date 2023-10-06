@@ -1,7 +1,7 @@
 # Project template
 
 - layout: top
-  name: "Virtual Prompt Injection for Instruction-Tuned Large Language Models"
+  name: "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection"
   description: | # this will include new lines to allow paragraphs
     <u>Jun Yan</u>, Vikas Yadav\*, Shiyang Li\*, Lichang Chen, Zheng Tang, Hai Wang, Vijay Srinivasan, Xiang Ren, Hongxia Jin
 
