@@ -8,7 +8,7 @@
     **arXiv:2307.16888** [[paper](https://arxiv.org/abs/2307.16888)] [[project page](https://poison-llm.github.io)]
 
 - layout: top
-  name: "Instruction-following Evaluation through Verbalizer Manipulation"
+  name: "Instruction-Following Evaluation through Verbalizer Manipulation"
   description: | # this will include new lines to allow paragraphs
     Shiyang Li, <u>Jun Yan</u>, Hai Wang, Zheng Tang, Xiang Ren, Vijay Srinivasan, Hongxia Jin
 
