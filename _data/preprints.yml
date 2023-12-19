@@ -20,3 +20,10 @@
     Lichang Chen\*, Shiyang Li\*, <u>Jun Yan</u>, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin
 
     **arXiv:2307.08701** [[paper](https://arxiv.org/abs/2307.08701)] [[project page](https://lichang-chen.github.io/AlpaGasus)]
+
+- layout: top
+  name: "Test-Time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations"
+  description: | # this will include new lines to allow paragraphs
+    Wenjie Mo, Jiashu Xu, Qin Liu, Jiongxiao Wang, <u>Jun Yan</u>, Chaowei Xiao, Muhao Chen
+
+    **arXiv:2311.09763** [[paper](https://arxiv.org/abs/2311.09763)]
