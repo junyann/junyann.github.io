@@ -1,6 +1,13 @@
 # Project template
 
 - layout: top
+  name: "AlpaGasus: Training A Better Alpaca with Fewer Data"
+  description: | # this will include new lines to allow paragraphs
+    Lichang Chen\*, Shiyang Li\*, <u>Jun Yan</u>, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin
+
+    **ICLR 2024** [[paper](https://arxiv.org/abs/2307.08701)] [[project page](https://lichang-chen.github.io/AlpaGasus)]
+
+- layout: top
   name: "BITE: Textual Backdoor Attacks with Iterative Trigger Injection"
   description: | # this will include new lines to allow paragraphs
     <u>Jun Yan</u>, Vansh Gupta, Xiang Ren

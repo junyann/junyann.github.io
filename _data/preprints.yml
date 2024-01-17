@@ -15,13 +15,6 @@
     **arXiv:2307.10558** [[paper](https://arxiv.org/abs/2307.10558)]
 
 - layout: top
-  name: "AlpaGasus: Training A Better Alpaca with Fewer Data"
-  description: | # this will include new lines to allow paragraphs
-    Lichang Chen\*, Shiyang Li\*, <u>Jun Yan</u>, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin
-
-    **arXiv:2307.08701** [[paper](https://arxiv.org/abs/2307.08701)] [[project page](https://lichang-chen.github.io/AlpaGasus)]
-
-- layout: top
   name: "Test-Time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations"
   description: | # this will include new lines to allow paragraphs
     Wenjie Mo, Jiashu Xu, Qin Liu, Jiongxiao Wang, <u>Jun Yan</u>, Chaowei Xiao, Muhao Chen
