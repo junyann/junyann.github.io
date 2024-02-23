@@ -15,8 +15,22 @@
     **arXiv:2307.10558** [[paper](https://arxiv.org/abs/2307.10558)]
 
 - layout: top
+  name: "How Susceptible are Large Language Models to Ideological Manipulation?"
+  description: | # this will include new lines to allow paragraphs
+    Kai Chen, Zihao He, <u>Jun Yan</u>, Taiwei Shi, Kristina Lerman
+
+    **arXiv:2402.11725** [[paper](https://arxiv.org/abs/2402.11725)]
+
+- layout: top
   name: "Test-Time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations"
   description: | # this will include new lines to allow paragraphs
     Wenjie Mo, Jiashu Xu, Qin Liu, Jiongxiao Wang, <u>Jun Yan</u>, Chaowei Xiao, Muhao Chen
 
     **arXiv:2311.09763** [[paper](https://arxiv.org/abs/2311.09763)]
+
+- layout: top
+  name: "GPT-4V(ision) as a Generalist Evaluator for Vision-Language Tasks"
+  description: | # this will include new lines to allow paragraphs
+    Xinlu Zhang, Yujie Lu, Weizhi Wang, An Yan, <u>Jun Yan</u>, Lianke Qin, Heng Wang, Xifeng Yan, William Yang Wang, Linda Ruth Petzold
+
+    **arXiv:2311.01361** [[paper](https://arxiv.org/abs/2311.01361)]
