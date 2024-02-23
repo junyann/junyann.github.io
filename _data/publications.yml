@@ -45,14 +45,14 @@
 - layout: top
   name: Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering
   description: | # this will include new lines to allow paragraphs
-    Yanlin Feng\*, Xinyue Chen\*, Bill Yuchen Lin, Peifeng Wang, <u>Jun Yan</u>, Xiang Ren (\* indicates equal contribution)
+    Yanlin Feng\*, Xinyue Chen\*, Bill Yuchen Lin, Peifeng Wang, <u>Jun Yan</u>, Xiang Ren
 
     **EMNLP 2020** [[paper](https://arxiv.org/abs/2005.00646)][[code](https://github.com/INK-USC/MHGRN)]
 
 - layout: top
   name: Learning from Explanations with Neural Execution Tree
   description: | # this will include new lines to allow paragraphs
-    Ziqi Wang\*, Yujia Qin\*, Wenxuan Zhou, <u>Jun Yan</u>, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, Xiang Ren (\* indicates equal contribution)
+    Ziqi Wang\*, Yujia Qin\*, Wenxuan Zhou, <u>Jun Yan</u>, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, Xiang Ren
 
     **ICLR 2020** [[paper](https://arxiv.org/abs/1911.01352)][[code](https://github.com/INK-USC/NExT)]
 
@@ -74,6 +74,6 @@
   # quote: >
   #   Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Yihong Gu\*, <u>Jun Yan</u>\*, Hao Zhu\*, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin, Leyu Lin (\* indicates equal contribution)
+    Yihong Gu\*, <u>Jun Yan</u>\*, Hao Zhu\*, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin, Leyu Lin
 
     **EMNLP 2018** [[paper](https://arxiv.org/abs/1810.12387)][[code](https://github.com/thunlp/SDLM-pytorch)]

@@ -1,5 +1,6 @@
 <div class="container projects-container">
   <h3>{{ site.publications_title | default: "Publications" }}</h3>
+  <h4 style="font-size: 16px;">(* indicates equal contribution)</h4>
   {% for publication in site.data.publications %}
     {% include {{ publication.layout | default: 'left' | append: ".html" }} item=publication %}
   {% endfor %}
