@@ -26,7 +26,7 @@
   description: | # this will include new lines to allow paragraphs
     <u>Jun Yan</u>, Vansh Gupta, Xiang Ren
 
-    **ACL 2023** (short version in **BANDS@ICLR 2023**) [[paper](https://arxiv.org/abs/2205.12700)][[code](https://github.com/INK-USC/BITE)]
+    **ACL 2023** [[paper](https://arxiv.org/abs/2205.12700)][[code](https://github.com/INK-USC/BITE)]
 
 - layout: top
   name: On the Robustness of Reading Comprehension Models to Entity Renaming
@@ -40,7 +40,7 @@
   description: | # this will include new lines to allow paragraphs
     Bill Yuchen Lin, Wenyang Gao, <u>Jun Yan</u>, Ryan Moreno, Xiang Ren
 
-    **EMNLP 2021 (short)** [[paper](https://arxiv.org/abs/2109.05620)][[code](https://github.com/INK-USC/rockner)]
+    **EMNLP 2021** [[paper](https://arxiv.org/abs/2109.05620)][[code](https://github.com/INK-USC/rockner)]
 
 - layout: top
   name: "AdaTag: Multi-Attribute Value Extraction from Product Profiles with Adaptive Decoding"
@@ -54,7 +54,7 @@
   description: | # this will include new lines to allow paragraphs
     <u>Jun Yan</u>, Mrigank Raman, Aaron Chan, Tianyu Zhang, Ryan Rossi, Handong Zhao, Sungchul Kim, Nedim Lipka
 
-    **Findings of ACL 2021** (short version in **KR2ML@NeurIPS 2020**) [[paper](https://arxiv.org/abs/2010.12873)][[code](https://github.com/INK-USC/HGN)]
+    **Findings of ACL 2021** [[paper](https://arxiv.org/abs/2010.12873)][[code](https://github.com/INK-USC/HGN)]
 
 - layout: top
   name: Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering
