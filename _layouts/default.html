@@ -11,13 +11,13 @@
     <div class="wrapper">
 
       {%- include about.html -%}
-
-      {%- if site.data.preprints.size > 0 -%}
-        {%- include preprints.html -%}
-      {%- endif -%}
       
       {%- if site.data.publications.size > 0 -%}
         {%- include publications.html -%}
+      {%- endif -%}
+
+      {%- if site.data.preprints.size > 0 -%}
+        {%- include preprints.html -%}
       {%- endif -%}
 
       {%- if site.data.honor.honor_content -%}
