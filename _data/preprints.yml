@@ -1,13 +1,6 @@
 # Project template
 
 - layout: top
-  name: "How Susceptible are Large Language Models to Ideological Manipulation?"
-  description: | # this will include new lines to allow paragraphs
-    Kai Chen, Zihao He, <u>Jun Yan</u>, Taiwei Shi, Kristina Lerman
-
-    **arXiv:2402.11725** [[paper](https://arxiv.org/abs/2402.11725)] <span style="color:red">**Best Paper Runner-up at [SeT LLM @ ICLR 2024](https://set-llm.github.io/)**</span>
-
-- layout: top
   name: "Test-Time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations"
   description: | # this will include new lines to allow paragraphs
     Wenjie Mo, Jiashu Xu, Qin Liu, Jiongxiao Wang, <u>Jun Yan</u>, Chaowei Xiao, Muhao Chen
