@@ -4,10 +4,10 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Jun Yan # Your Name
-title: PhD Candidate
-subtitle: Department of Computer Science<br>University of Southern California
+title: Research Scientist
+subtitle: Google
 
-email: yanjun [at] usc.edu
+email: junyann [at] google.com
 # phone: Your phone number (optional)
 # website: Your website (eg. https://google.com)(optional)
 

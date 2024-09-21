@@ -1,6 +1,13 @@
 # Project template
 
 - layout: top
+  name: "How Susceptible are Large Language Models to Ideological Manipulation?"
+  description: | # this will include new lines to allow paragraphs
+    Kai Chen, Zihao He, <u>Jun Yan</u>, Taiwei Shi, Kristina Lerman
+
+    **EMNLP 2024** [[paper](https://arxiv.org/abs/2402.11725)] <span style="color:red">**Best Paper Runner-up** at SeT LLM @ ICLR 2024</span>
+
+- layout: top
   name: "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection"
   description: | # this will include new lines to allow paragraphs
     <u>Jun Yan</u>, Vikas Yadav\*, Shiyang Li\*, Lichang Chen, Zheng Tang, Hai Wang, Vijay Srinivasan, Xiang Ren, Hongxia Jin
@@ -20,13 +27,6 @@
     Lichang Chen\*, Shiyang Li\*, <u>Jun Yan</u>, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin
 
     **ICLR 2024** [[paper](https://arxiv.org/abs/2307.08701)] [[project page](https://lichang-chen.github.io/AlpaGasus)]
-
-- layout: top
-  name: "How Susceptible are Large Language Models to Ideological Manipulation?"
-  description: | # this will include new lines to allow paragraphs
-    Kai Chen, Zihao He, <u>Jun Yan</u>, Taiwei Shi, Kristina Lerman
-
-    **SeT LLM @ ICLR 2024** [[paper](https://arxiv.org/abs/2402.11725)] <span style="color:red">**Best Paper Runner-up**</span>
 
 - layout: top
   name: "BITE: Textual Backdoor Attacks with Iterative Trigger Injection"
