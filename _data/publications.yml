@@ -5,7 +5,7 @@
   description: | # this will include new lines to allow paragraphs
     Kai Chen, Zihao He, <u>Jun Yan</u>, Taiwei Shi, Kristina Lerman
 
-    **EMNLP 2024** [[paper](https://arxiv.org/abs/2402.11725)] <span style="color:red">**Best Paper Runner-up** at SeT LLM @ ICLR 2024</span>
+    **EMNLP 2024** [[paper](https://arxiv.org/abs/2402.11725)] <span style="color:red">Best Paper Runner-up at SeT LLM @ ICLR 2024</span>
 
 - layout: top
   name: "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection"
