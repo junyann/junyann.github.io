@@ -1,6 +1,8 @@
 about_content: |
-  I am a Research Scientist at Google. I obtained my PhD from University of Southern California (USC), advised by [Prof. Xiang Ren](https://www-bcf.usc.edu/~xiangren/).
+  I am a Research Scientist at [Google Cloud AI Research](https://research.google/teams/cloud-ai). I obtained my PhD from University of Southern California (USC), advised by [Prof. Xiang Ren](https://www-bcf.usc.edu/~xiangren/).
 
-  My research focuses on building trustworthy Natural Language Processing (NLP) systems. Specifically, I'm interested in <mark>alignment</mark>, <mark>safety</mark>, and <mark>robustness</mark> of Large Language Models (LLMs). I also do research in <mark>machine reasoning</mark>, and <mark>information extraction</mark>.
+  My research focuses on building trustworthy Natural Language Processing (NLP) systems. Specifically, I'm interested in <mark>alignment</mark>, <mark>safety</mark>, and <mark>robustness</mark> of Large Language Models (LLMs).
 
   You can find my CV [here](static/CV_Jun_Yan.pdf).
+
+  <span style="color:red">**I am looking for student researchers to work on topics including but not limited to data synthesis, reasoning, and LLM agents. Please reach out if you are interested.**</span>
