@@ -1,4 +1,10 @@
 # Project template
+- layout: top
+  name: "Test-Time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations"
+  description: | # this will include new lines to allow paragraphs
+    Wenjie Mo, Jiashu Xu, Qin Liu, Jiongxiao Wang, <u>Jun Yan</u>, Chaowei Xiao, Muhao Chen
+
+    **Findings of NAACL 2025** [[paper](https://arxiv.org/abs/2311.09763)]
 
 - layout: top
   name: "How Susceptible are Large Language Models to Ideological Manipulation?"
