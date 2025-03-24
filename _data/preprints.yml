@@ -9,7 +9,7 @@
 - layout: top
   name: "Magnet: Multi-turn Tool-use Data Synthesis and Distillation via Graph Translation"
   description: | # this will include new lines to allow paragraphs
-  	Fan Yin, Zifeng Wang, I-Hung Hsu, <u>Jun Yan</u>, Ke Jiang, Yanfei Chen, Jindong Gu, Long T. Le, Kai-Wei Chang, Chen-Yu Lee, Hamid Palangi, Tomas Pfister
+    Fan Yin, Zifeng Wang, I-Hung Hsu, <u>Jun Yan</u>, Ke Jiang, Yanfei Chen, Jindong Gu, Long T. Le, Kai-Wei Chang, Chen-Yu Lee, Hamid Palangi, Tomas Pfister
 
     **arXiv:2503.07826** [[paper](https://arxiv.org/abs/2503.07826)]
 
