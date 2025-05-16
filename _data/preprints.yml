@@ -1,17 +1,4 @@
 # Project template
-- layout: top
-  name: "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"
-  description: | # this will include new lines to allow paragraphs
-    Zhen Tan, <u>Jun Yan</u>, I-Hung Hsu, Rujun Han, Zifeng Wang, Long T. Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister
-
-    **arXiv:2503.08026** [[paper](https://arxiv.org/abs/2503.08026)]
-
-- layout: top
-  name: "Magnet: Multi-turn Tool-use Data Synthesis and Distillation via Graph Translation"
-  description: | # this will include new lines to allow paragraphs
-    Fan Yin, Zifeng Wang, I-Hung Hsu, <u>Jun Yan</u>, Ke Jiang, Yanfei Chen, Jindong Gu, Long T. Le, Kai-Wei Chang, Chen-Yu Lee, Hamid Palangi, Tomas Pfister
-
-    **arXiv:2503.07826** [[paper](https://arxiv.org/abs/2503.07826)]
 
 - layout: top
   name: "Rethinking Backdoor Detection Evaluation for Language Models"
