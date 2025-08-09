@@ -1,15 +1,1 @@
 # Project template
-
-- layout: top
-  name: "Rethinking Backdoor Detection Evaluation for Language Models"
-  description: | # this will include new lines to allow paragraphs
-    <u>Jun Yan</u>, Wenjie Mo, Xiang Ren, Robin Jia
-
-    **arXiv:2409.00399** [[paper](https://arxiv.org/abs/2409.00399)]
-
-- layout: top
-  name: "GPT-4V(ision) as a Generalist Evaluator for Vision-Language Tasks"
-  description: | # this will include new lines to allow paragraphs
-    Xinlu Zhang\*, Yujie Lu\*, Weizhi Wang\*, An Yan, <u>Jun Yan</u>, Lianke Qin, Heng Wang, Xifeng Yan, William Yang Wang, Linda Ruth Petzold
-
-    **arXiv:2311.01361** [[paper](https://arxiv.org/abs/2311.01361)]
