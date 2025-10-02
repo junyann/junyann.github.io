@@ -1,5 +1,12 @@
 # Project template
 - layout: top
+  name: "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
+  description: | # this will include new lines to allow paragraphs
+    Siru Ouyang, <u>Jun Yan</u>, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, Rujun Han, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister
+
+    **arXiv:2509.25140** [[paper](https://arxiv.org/abs/2509.25140)]
+
+- layout: top
   name: "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
   description: | # this will include new lines to allow paragraphs
     Gemini Team, Google
