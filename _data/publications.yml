@@ -1,10 +1,24 @@
 # Project template
 - layout: top
-  name: "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
+  name: "Budget-Aware Tool-Use Enables Effective Agent Scaling"
   description: | # this will include new lines to allow paragraphs
-    Siru Ouyang, <u>Jun Yan</u>, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, Rujun Han, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister
+    Tengxiao Liu, Zifeng Wang, Jin Miao, I-Hung Hsu, <u>Jun Yan</u>, Jiefeng Chen, Rujun Han, Fangyuan Xu, Yanfei Chen, Ke Jiang, Samira Daruki, Yi Liang, William Yang Wang, Tomas Pfister, Chen-Yu Lee
 
-    **arXiv:2509.25140** [[paper](https://arxiv.org/abs/2509.25140)]
+    **arXiv:2511.17006** [[paper](https://arxiv.org/abs/2511.17006)]
+
+- layout: top
+  name: "Supervised Reinforcement Learning: From Expert Trajectories to Step-wise Reasoning"
+  description: | # this will include new lines to allow paragraphs
+    Yihe Deng, I-Hung Hsu, <u>Jun Yan</u>, Zifeng Wang, Rujun Han, Gufeng Zhang, Yanfei Chen, Wei Wang, Tomas Pfister, Chen-Yu Lee
+
+    **arXiv:2510.25992** [[paper](https://arxiv.org/abs/2510.25992)]
+
+- layout: top
+  name: "Incentivizing Agentic Reasoning in LLM Judges via Tool-Integrated Reinforcement Learning"
+  description: | # this will include new lines to allow paragraphs
+    Ran Xu, Jingjing Chen, Jiayu Ye, Yu Wu, Jun Yan, Carl Yang, Hongkun Yu
+
+    **arXiv:2510.23038** [[paper](https://arxiv.org/abs/2510.23038)]
 
 - layout: top
   name: "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
