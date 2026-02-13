@@ -1,24 +1,17 @@
 # Project template
 - layout: top
-  name: "Budget-Aware Tool-Use Enables Effective Agent Scaling"
+  name: "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
   description: | # this will include new lines to allow paragraphs
-    Tengxiao Liu, Zifeng Wang, Jin Miao, I-Hung Hsu, <u>Jun Yan</u>, Jiefeng Chen, Rujun Han, Fangyuan Xu, Yanfei Chen, Ke Jiang, Samira Daruki, Yi Liang, William Yang Wang, Tomas Pfister, Chen-Yu Lee
+    Siru Ouyang, <u>Jun Yan</u>, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, Rujun Han, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister
 
-    **arXiv:2511.17006** [[paper](https://arxiv.org/abs/2511.17006)]
+    **ICLR 2026** [[paper](https://arxiv.org/abs/2509.25140)] [[code](https://github.com/google-research/google-research/tree/master/ReasoningBank)]
 
 - layout: top
   name: "Supervised Reinforcement Learning: From Expert Trajectories to Step-wise Reasoning"
   description: | # this will include new lines to allow paragraphs
     Yihe Deng, I-Hung Hsu, <u>Jun Yan</u>, Zifeng Wang, Rujun Han, Gufeng Zhang, Yanfei Chen, Wei Wang, Tomas Pfister, Chen-Yu Lee
 
-    **arXiv:2510.25992** [[paper](https://arxiv.org/abs/2510.25992)]
-
-- layout: top
-  name: "Incentivizing Agentic Reasoning in LLM Judges via Tool-Integrated Reinforcement Learning"
-  description: | # this will include new lines to allow paragraphs
-    Ran Xu, Jingjing Chen, Jiayu Ye, Yu Wu, Jun Yan, Carl Yang, Hongkun Yu
-
-    **arXiv:2510.23038** [[paper](https://arxiv.org/abs/2510.23038)]
+    **ICLR 2026** [[paper](https://arxiv.org/abs/2510.25992)]
 
 - layout: top
   name: "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
@@ -35,34 +28,6 @@
     **ACL 2025** [[paper](https://arxiv.org/abs/2503.08026)]
 
 - layout: top
-  name: "Magnet: Multi-turn Tool-use Data Synthesis and Distillation via Graph Translation"
-  description: | # this will include new lines to allow paragraphs
-    Fan Yin, Zifeng Wang, I-Hung Hsu, <u>Jun Yan</u>, Ke Jiang, Yanfei Chen, Jindong Gu, Long T. Le, Kai-Wei Chang, Chen-Yu Lee, Hamid Palangi, Tomas Pfister
-
-    **ACL 2025** [[paper](https://arxiv.org/abs/2503.07826)]
-
-- layout: top
-  name: "Test-Time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations"
-  description: | # this will include new lines to allow paragraphs
-    Wenjie Mo, Jiashu Xu, Qin Liu, Jiongxiao Wang, <u>Jun Yan</u>, Chaowei Xiao, Muhao Chen
-
-    **Findings of NAACL 2025** [[paper](https://arxiv.org/abs/2311.09763)]
-
-- layout: top
-  name: "How Susceptible are Large Language Models to Ideological Manipulation?"
-  description: | # this will include new lines to allow paragraphs
-    Kai Chen, Zihao He, <u>Jun Yan</u>, Taiwei Shi, Kristina Lerman
-
-    **EMNLP 2024** [[paper](https://arxiv.org/abs/2402.11725)] <span style="color:red">Best Paper Runner-up at SeT LLM @ ICLR 2024</span>
-
-- layout: top
-  name: "Rethinking Backdoor Detection Evaluation for Language Models"
-  description: | # this will include new lines to allow paragraphs
-    <u>Jun Yan</u>, Wenjie Mo, Xiang Ren, Robin Jia
-
-    **arXiv:2409.00399** [[paper](https://arxiv.org/abs/2409.00399)]
-
-- layout: top
   name: "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection"
   description: | # this will include new lines to allow paragraphs
     <u>Jun Yan</u>, Vikas Yadav\*, Shiyang Li\*, Lichang Chen, Zheng Tang, Hai Wang, Vijay Srinivasan, Xiang Ren, Hongxia Jin
@@ -70,93 +35,8 @@
     **NAACL 2024** [[paper](https://arxiv.org/abs/2307.16888)] [[project page](https://poison-llm.github.io)]
 
 - layout: top
-  name: "Instruction-Following Evaluation through Verbalizer Manipulation"
-  description: | # this will include new lines to allow paragraphs
-    Shiyang Li, <u>Jun Yan</u>, Hai Wang, Zheng Tang, Xiang Ren, Vijay Srinivasan, Hongxia Jin
-
-    **Findings of NAACL 2024** [[paper](https://arxiv.org/abs/2307.10558)]
-
-- layout: top
   name: "AlpaGasus: Training A Better Alpaca with Fewer Data"
   description: | # this will include new lines to allow paragraphs
     Lichang Chen\*, Shiyang Li\*, <u>Jun Yan</u>, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin
 
     **ICLR 2024** [[paper](https://arxiv.org/abs/2307.08701)] [[project page](https://lichang-chen.github.io/AlpaGasus)]
-
-- layout: top
-  name: "GPT-4V(ision) as a Generalist Evaluator for Vision-Language Tasks"
-  description: | # this will include new lines to allow paragraphs
-    Xinlu Zhang\*, Yujie Lu\*, Weizhi Wang\*, An Yan, <u>Jun Yan</u>, Lianke Qin, Heng Wang, Xifeng Yan, William Yang Wang, Linda Ruth Petzold
-
-    **arXiv:2311.01361** [[paper](https://arxiv.org/abs/2311.01361)]
-
-- layout: top
-  name: "BITE: Textual Backdoor Attacks with Iterative Trigger Injection"
-  description: | # this will include new lines to allow paragraphs
-    <u>Jun Yan</u>, Vansh Gupta, Xiang Ren
-
-    **ACL 2023** [[paper](https://arxiv.org/abs/2205.12700)][[code](https://github.com/INK-USC/BITE)]
-
-- layout: top
-  name: On the Robustness of Reading Comprehension Models to Entity Renaming
-  description: | # this will include new lines to allow paragraphs
-    <u>Jun Yan</u>, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, Xiang Ren
-
-    **NAACL 2022** [[paper](https://arxiv.org/abs/2110.08555)][[code](https://github.com/INK-USC/entity-robustness)]
-
-- layout: top
-  name: "RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models"
-  description: | # this will include new lines to allow paragraphs
-    Bill Yuchen Lin, Wenyang Gao, <u>Jun Yan</u>, Ryan Moreno, Xiang Ren
-
-    **EMNLP 2021** [[paper](https://arxiv.org/abs/2109.05620)][[code](https://github.com/INK-USC/rockner)]
-
-- layout: top
-  name: "AdaTag: Multi-Attribute Value Extraction from Product Profiles with Adaptive Decoding"
-  description: | # this will include new lines to allow paragraphs
-    <u>Jun Yan</u>, Nasser Zalmout, Yan Liang, Christan Grant, Xiang Ren, Xin Luna Dong
-
-    **ACL 2021** [[paper](https://arxiv.org/abs/2106.02318)]
-
-- layout: top
-  name: Learning Contextualized Knowledge Structures for Commonsense Reasoning
-  description: | # this will include new lines to allow paragraphs
-    <u>Jun Yan</u>, Mrigank Raman, Aaron Chan, Tianyu Zhang, Ryan Rossi, Handong Zhao, Sungchul Kim, Nedim Lipka
-
-    **Findings of ACL 2021** [[paper](https://arxiv.org/abs/2010.12873)][[code](https://github.com/INK-USC/HGN)]
-
-- layout: top
-  name: Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering
-  description: | # this will include new lines to allow paragraphs
-    Yanlin Feng\*, Xinyue Chen\*, Bill Yuchen Lin, Peifeng Wang, <u>Jun Yan</u>, Xiang Ren
-
-    **EMNLP 2020** [[paper](https://arxiv.org/abs/2005.00646)][[code](https://github.com/INK-USC/MHGRN)]
-
-- layout: top
-  name: Learning from Explanations with Neural Execution Tree
-  description: | # this will include new lines to allow paragraphs
-    Ziqi Wang\*, Yujia Qin\*, Wenxuan Zhou, <u>Jun Yan</u>, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, Xiang Ren
-
-    **ICLR 2020** [[paper](https://arxiv.org/abs/1911.01352)][[code](https://github.com/INK-USC/NExT)]
-
-- layout: top
-  name: Learning Dual Retrieval Module for Semi-Supervised Relation Extraction
-  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  # quote: >
-  #   Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Hongtao Lin, <u>Jun Yan</u>, Meng Qu, Xiang Ren
-
-    **TheWebConf 2019** [[paper](https://arxiv.org/abs/1902.07814)][[code](https://github.com/INK-USC/DualRE)]
-
-- layout: top
-  name: Language Modeling with Sparse Product of Sememe Experts
-  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  # quote: >
-  #   Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Yihong Gu\*, <u>Jun Yan</u>\*, Hao Zhu\*, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin, Leyu Lin
-
-    **EMNLP 2018** [[paper](https://arxiv.org/abs/1810.12387)][[code](https://github.com/thunlp/SDLM-pytorch)]

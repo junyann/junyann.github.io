@@ -34,7 +34,7 @@ about_profile_image: images/profile.jpg
 # about_content: | # this will include new lines to allow paragraphs
 
 # Publications Section
-publications_title: Publications and Preprints #(Use this to override about projects section title)
+publications_title: Selected Publications #(Use this to override about projects section title)
 
 # Experience Section
 experience_title: Research Experience #(Use this to override about experience section title)
