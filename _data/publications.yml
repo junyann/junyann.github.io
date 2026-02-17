@@ -9,7 +9,7 @@
 - layout: top
   name: "Supervised Reinforcement Learning: From Expert Trajectories to Step-wise Reasoning"
   description: | # this will include new lines to allow paragraphs
-    Yihe Deng, I-Hung Hsu, <u>Jun Yan</u>, Zifeng Wang, Rujun Han, Gufeng Zhang, Yanfei Chen, Wei Wang, Tomas Pfister, Chen-Yu Lee
+    Yihe Deng\*, I-Hung Hsu\*, <u>Jun Yan</u>, Zifeng Wang, Rujun Han, Gufeng Zhang, Yanfei Chen, Wei Wang, Tomas Pfister, Chen-Yu Lee
 
     **ICLR 2026** [[paper](https://arxiv.org/abs/2510.25992)]
 
