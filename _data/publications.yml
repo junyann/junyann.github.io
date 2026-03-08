@@ -4,14 +4,14 @@
   description: | # this will include new lines to allow paragraphs
     Siru Ouyang, <u>Jun Yan</u>, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, Rujun Han, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister
 
-    **ICLR 2026** [[paper](https://arxiv.org/abs/2509.25140)] [[code](https://github.com/google-research/google-research/tree/master/ReasoningBank)]
+    **ICLR 2026** [[paper](https://arxiv.org/abs/2509.25140)] [[code](https://github.com/google-research/reasoning-bank)] <span style="color:red">Featured by [<a href="https://venturebeat.com/ai/new-memory-framework-builds-ai-agents-that-can-handle-the-real-worlds" style="color:red">VentureBeat</a>] [<a href="https://youtu.be/36OBX5lQjGc?si=FRcq689g61y5sXyX&t=224" style="color:red">Andrej Karpathy's podcast</a>]</span>
 
 - layout: top
   name: "Supervised Reinforcement Learning: From Expert Trajectories to Step-wise Reasoning"
   description: | # this will include new lines to allow paragraphs
     Yihe Deng\*, I-Hung Hsu\*, <u>Jun Yan</u>, Zifeng Wang, Rujun Han, Gufeng Zhang, Yanfei Chen, Wei Wang, Tomas Pfister, Chen-Yu Lee
 
-    **ICLR 2026** [[paper](https://arxiv.org/abs/2510.25992)]
+    **ICLR 2026** [[paper](https://arxiv.org/abs/2510.25992)] <span style="color:red">Featured by [<a href="https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning" style="color:red">VentureBeat</a>]</span>
 
 - layout: top
   name: "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
