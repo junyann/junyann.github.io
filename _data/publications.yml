@@ -4,7 +4,7 @@
   description: | # this will include new lines to allow paragraphs
     Siru Ouyang, <u>Jun Yan</u>, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, Rujun Han, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister
 
-    **ICLR 2026** [[paper](https://arxiv.org/abs/2509.25140)] [[code](https://github.com/google-research/reasoning-bank)] <span style="color:red">Featured by [<a href="https://venturebeat.com/ai/new-memory-framework-builds-ai-agents-that-can-handle-the-real-worlds" style="color:red">VentureBeat</a>] [<a href="https://youtu.be/36OBX5lQjGc?si=FRcq689g61y5sXyX&t=224" style="color:red">Andrej Karpathy's podcast</a>]</span>
+    **ICLR 2026** [[paper](https://arxiv.org/abs/2509.25140)] [[code](https://github.com/google-research/reasoning-bank)] [[Google Research blog](https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience)] <span style="color:red">Featured by [<a href="https://venturebeat.com/ai/new-memory-framework-builds-ai-agents-that-can-handle-the-real-worlds" style="color:red">VentureBeat</a>] [<a href="https://youtu.be/36OBX5lQjGc?si=FRcq689g61y5sXyX&t=224" style="color:red">Andrej Karpathy's podcast</a>]</span>
 
 - layout: top
   name: "Supervised Reinforcement Learning: From Expert Trajectories to Step-wise Reasoning"
