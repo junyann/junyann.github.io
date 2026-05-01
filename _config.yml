@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Jun Yan # Your Name
 title: Senior Research Scientist
-subtitle: Google Deepmind
+subtitle: Google DeepMind
 
 email: junyann [at] google.com
 # phone: Your phone number (optional)
