@@ -1,8 +1,15 @@
 # Project template
 - layout: top
+  name: "SkillOS: Learning Skill Curation for Self-Evolving Agents"
+  description: | # this will include new lines to allow paragraphs
+    Siru Ouyang, <u>Jun Yan</u><sup>†</sup>, Yanfei Chen, Rujun Han, Zifeng Wang, Bhavana Dalvi Mishra, Rui Meng, Chun-Liang Li, Yizhu Jiao, Kaiwen Zha, Maohao Shen, Vishy Tirumalashetty, George Lee, Jiawei Han, Tomas Pfister, Chen-Yu Lee
+
+    **arXiv 2026** [[paper](https://arxiv.org/abs/2605.06614)]
+
+- layout: top
   name: "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
   description: | # this will include new lines to allow paragraphs
-    Siru Ouyang, <u>Jun Yan</u>, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, Rujun Han, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister
+    Siru Ouyang, <u>Jun Yan</u><sup>†</sup>, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, Rujun Han, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister
 
     **ICLR 2026** [[paper](https://arxiv.org/abs/2509.25140)] [[code](https://github.com/google-research/reasoning-bank)] [[Google Research blog](https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience)] <span style="color:red">Featured by [<a href="https://venturebeat.com/ai/new-memory-framework-builds-ai-agents-that-can-handle-the-real-worlds" style="color:red">VentureBeat</a>] [<a href="https://youtu.be/36OBX5lQjGc?si=FRcq689g61y5sXyX&t=224" style="color:red">Andrej Karpathy's podcast</a>]</span>
 
@@ -23,7 +30,7 @@
 - layout: top
   name: "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"
   description: | # this will include new lines to allow paragraphs
-    Zhen Tan, <u>Jun Yan</u>, I-Hung Hsu, Rujun Han, Zifeng Wang, Long T. Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister
+    Zhen Tan, <u>Jun Yan</u><sup>†</sup>, I-Hung Hsu, Rujun Han, Zifeng Wang, Long T. Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister
 
     **ACL 2025** [[paper](https://arxiv.org/abs/2503.08026)]
 
