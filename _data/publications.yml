@@ -1,5 +1,12 @@
 # Project template
 - layout: top
+  name: "Gemma 4 Technical Report"
+  description: | # this will include new lines to allow paragraphs
+    Gemma Team, Google
+
+    **Technical Report, 2026** [[paper](https://arxiv.org/abs/2607.02770)]
+
+- layout: top
   name: "SkillOS: Learning Skill Curation for Self-Evolving Agents"
   description: | # this will include new lines to allow paragraphs
     Siru Ouyang, <u>Jun Yan</u><sup>†</sup>, Yanfei Chen, Rujun Han, Zifeng Wang, Bhavana Dalvi Mishra, Rui Meng, Chun-Liang Li, Yizhu Jiao, Kaiwen Zha, Maohao Shen, Vishy Tirumalashetty, George Lee, Jiawei Han, Tomas Pfister, Chen-Yu Lee
