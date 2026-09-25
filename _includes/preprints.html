@@ -1,6 +1,5 @@
 <div class="container projects-container">
-  <h3>{{ site.publications_title | default: "Preprints" }}</h3>
-  <h4 style="font-size: 16px;">(* indicates equal contribution)</h4>
+  <h3>{{ site.preprints_title | default: "Preprints" }}</h3>
   {% for preprint in site.data.preprints %}
     {% include {{ preprint.layout | default: 'left' | append: ".html" }} item=preprint %}
   {% endfor %}

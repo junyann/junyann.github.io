@@ -1,17 +1,10 @@
 # Project template
 - layout: top
-  name: "Gemma 4 Technical Report"
-  description: | # this will include new lines to allow paragraphs
-    Gemma Team, Google
-
-    **Technical Report, 2026** [[paper](https://arxiv.org/abs/2607.02770)]
-
-- layout: top
   name: "SkillOS: Learning Skill Curation for Self-Evolving Agents"
   description: | # this will include new lines to allow paragraphs
     Siru Ouyang, <u>Jun Yan</u><sup>†</sup>, Yanfei Chen, Rujun Han, Zifeng Wang, Bhavana Dalvi Mishra, Rui Meng, Chun-Liang Li, Yizhu Jiao, Kaiwen Zha, Maohao Shen, Vishy Tirumalashetty, George Lee, Jiawei Han, Tomas Pfister, Chen-Yu Lee
 
-    **arXiv 2026** [[paper](https://arxiv.org/abs/2605.06614)]
+    **NeurIPS 2026** [[paper](https://arxiv.org/abs/2605.06614)]
 
 - layout: top
   name: "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"
@@ -21,18 +14,11 @@
     **ICLR 2026** [[paper](https://arxiv.org/abs/2509.25140)] [[code](https://github.com/google-research/reasoning-bank)] [[Google Research blog](https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience)] <span style="color:red">Featured by [<a href="https://venturebeat.com/ai/new-memory-framework-builds-ai-agents-that-can-handle-the-real-worlds" style="color:red">VentureBeat</a>] [<a href="https://youtu.be/36OBX5lQjGc?si=FRcq689g61y5sXyX&t=224" style="color:red">Andrej Karpathy's podcast</a>]</span>
 
 - layout: top
-  name: "Supervised Reinforcement Learning: From Expert Trajectories to Step-wise Reasoning"
+  name: "EnvHarness: Awakening Static Worlds for Agent Learning"
   description: | # this will include new lines to allow paragraphs
-    Yihe Deng\*, I-Hung Hsu\*, <u>Jun Yan</u>, Zifeng Wang, Rujun Han, Gufeng Zhang, Yanfei Chen, Wei Wang, Tomas Pfister, Chen-Yu Lee
+    Chengsong Huang, Zifeng Wang, Rujun Han, <u>Jun Yan</u>, Yanfei Chen, Zoey CuiZhu, Ke Jiang, Peng Xia, Han Yu, Yufan Zhuang, Yifei Ming, Jiaqi Pan, Bhavana Dalvi Mishra, Jiaxin Huang, Burak Gokturk, Tomas Pfister, Chen-Yu Lee
 
-    **ICLR 2026** [[paper](https://arxiv.org/abs/2510.25992)] <span style="color:red">Featured by [<a href="https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning" style="color:red">VentureBeat</a>]</span>
-
-- layout: top
-  name: "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
-  description: | # this will include new lines to allow paragraphs
-    Gemini Team, Google
-
-    **Technical Report, 2025** [[paper](https://arxiv.org/abs/2507.06261)]
+    **arXiv 2026** [[paper](https://arxiv.org/abs/2608.19880)]
 
 - layout: top
   name: "In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"

@@ -1,1 +1,14 @@
 # Project template
+- layout: top
+  name: "Gemma 4 Technical Report"
+  description: | # this will include new lines to allow paragraphs
+    Gemma Team, Google
+
+    **Technical Report, 2026** [[paper](https://arxiv.org/abs/2607.02770)]
+
+- layout: top
+  name: "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+  description: | # this will include new lines to allow paragraphs
+    Gemini Team, Google
+
+    **Technical Report, 2025** [[paper](https://arxiv.org/abs/2507.06261)]
